@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Venkatesh</h1>
-<h3 align="center">A passionate Web Developer from Odisha, India</h3>
+<h3 align="center">A passionate learner from Odisha, India</h3>
 
 <p align="left"> <a href="https://twitter.com/xvenkyx" target="blank"><img src="https://img.shields.io/twitter/follow/xvenkyx?logo=twitter&style=for-the-badge" alt="xvenkyx" /></a> </p>
 
